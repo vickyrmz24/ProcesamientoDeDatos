@@ -16,5 +16,5 @@
 
 [Miniproyecto 1]()
   - [Archivo PPT](https://github.com/vickyrmz24/ProcesamientoDeDatos/blob/main/Miniproyecto1.pptx)
-  - [Código](https://github.com/vickyrmz24/ProcesamientoDeDatos/blob/main/Tarea3.ipynb)
+  - [Código](https://github.com/vickyrmz24/ProcesamientoDeDatos/blob/main/miniproject_1.ipynb)
   - [Dataset](https://github.com/vickyrmz24/ProcesamientoDeDatos/blob/main/dataset.csv)
